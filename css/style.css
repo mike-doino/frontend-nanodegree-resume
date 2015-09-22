@@ -164,6 +164,19 @@ span {
   padding: 5px;
 }
 
+.education-hdr {
+  padding-bottom: 0;
+}
+
+.online-class-hdr {
+  margin-top: 1em;
+  padding-bottom: 0;
+}
+
+.online-url {
+  clear:both;
+}
+
 #lets-connect {
   text-align: center;
 }
